@@ -163,8 +163,6 @@ total_zero_cases = count_zero_cases()
 print("The total number of cases where multiple Boolean polynomials are equal to 0 at the same time:", total_zero_cases)
 print("The probability that multiple Boolean polynomials are equal to 0 at the same time:", total_zero_cases/(2**27))
 
-# 27个布尔函数同时等于0的概率为0.00038189440965652466,约等于2^(-11.355)<(0.75)^27=2^(-11.205)
-# 0.75的27次方等于0.00042330569...
 
 end_time = time.time()
 execution_time = end_time - start_time
