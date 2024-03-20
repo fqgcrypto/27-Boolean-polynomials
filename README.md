@@ -2,7 +2,7 @@
 The nonlinear terms of each polynomial can be found in the code.
 Each complete Boolean polynomial can be constructed as follows.
 For example, 
-y1=x1+nonlinear terms2,
+y1=x1+nonlinear terms1,
 y2=x2+nonlinear terms2,
 ...
 y27=x27+nonlinear terms27.
